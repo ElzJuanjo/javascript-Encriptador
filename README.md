@@ -1,4 +1,4 @@
-```LINK DIRECTO:``` [Click aquí](https://elzjuanjo.github.io/alura-encriptador/)
+```LINK DIRECTO:``` [Click aquí](https://elzjuanjo.github.io/javascript-Encriptador/)
 
 
 # CARACTERISTICAS
